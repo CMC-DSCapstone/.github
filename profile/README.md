@@ -1,88 +1,57 @@
-# QCL: Murty Sunak Quantitative and Computing Lab
-
-> "_The manipulation of numbers, the manipulation of structures._  
-> And if I had asked what music means to you, would you have answered:  
-> _'The manipulation of notes?'_"  
-> — Serge Lang
+# Capstone Support at the QCL  
+**Murty Sunak Quantitative and Computing Lab**  
+Claremont McKenna College
 
 ## Overview
 
-The **Murty Sunak Quantitative and Computing Lab (QCL)** at Claremont McKenna College is a campus-wide resource center providing comprehensive support in:
+The Murty Sunak Quantitative and Computing Lab (QCL) provides specialized support for senior thesis and capstone projects across all disciplines. Our goal is to help students incorporate quantitative reasoning, data analysis, and computational tools into their academic research.
 
-- Mathematics  
-- Computation  
-- Statistics  
-- Programming  
-- Data Analysis and Visualization  
-
-The QCL is committed to integrating computer and data science into the full range of liberal arts disciplines, including the social sciences, sciences, and humanities. We aim to help students build and apply quantitative literacy across all academic fields—from economics to biology, from political science to philosophy.
+Whether you are analyzing economic data, running regressions in R, creating visualizations in Python, or exploring text data in the humanities, the QCL offers the guidance and resources to support your work from start to finish.
 
 ---
 
-## Mission
+## How We Support Capstone Projects
 
-> “The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization.”
+### Individual Consultations
 
-The QCL strives to:
+Students can meet one-on-one with QCL directors, graduate fellows, or trained peer mentors for:
 
-- Support students in applying quantitative and computational skills to their coursework and research
-- Make programming more accessible and less intimidating
-- Provide expert guidance on research tools, methods, and technologies
-- Foster inclusion by supporting students from all backgrounds, especially those historically underrepresented in technology and data-focused disciplines
+- Project planning and methodology development  
+- Guidance on quantitative tools, languages, and software  
+- Help with interpreting data and presenting findings  
+- Debugging code or working through analytical challenges
 
----
+### Data and Computational Resources
 
-## Services
+The QCL can assist with:
 
-### Peer Mentoring
+- Identifying and sourcing relevant datasets  
+- Using tools such as Stata, R, Python, and MATLAB  
+- Accessing high-performance computing resources for large-scale analyses  
+- Building reproducible workflows for academic research
 
-We hire and train a team of highly skilled undergraduate mentors to support students through:
+### Workshops and Refreshers
 
-- One-on-one tutoring sessions (by appointment)
-- Drop-in hours for quick help with coursework
-- Support across a range of quantitative subjects and programming languages
+Leading up to and during capstone season, the QCL offers targeted workshops on:
 
-All CMC students and 5C students enrolled in CMC quantitative courses are eligible.
-
-### Training Workshops
-
-We offer regular, instructor-led workshops on foundational topics such as:
-
-- Programming languages (e.g., Python, R, MATLAB)
-- Data analysis techniques
-- Statistical modeling and visualization tools
-
-Our workshops are designed to be inclusive and beginner-friendly, ensuring participants learn at a comfortable pace.
-
-### Quantitative Consulting and Research Support
-
-QCL directors and graduate fellows provide consulting for:
-
-- Senior thesis projects
-- Faculty research
-- Quantitative and computational approaches across disciplines
-
-We also offer access to high-performance computing resources and guidance on advanced tools and methods for research and teaching.
+- Statistical techniques and modeling  
+- Programming basics and advanced topics  
+- Data visualization and storytelling  
+- Best practices for research documentation
 
 ---
 
-## Contact Information
+## Getting Started
 
-**Murty Sunak Quantitative and Computing Lab**  
-Claremont McKenna College  
-850 Columbia Avenue  
-Claremont, CA 91711  
+To schedule a consultation or learn more about our capstone support services, contact us at:
 
+**Email:** [qcl@cmc.edu](mailto:qcl@cmc.edu)  
 **Phone:** (909) 607-3666  
-**Email:** [qcl@cmc.edu](mailto:qcl@cmc.edu)
 
-**Campus Location:**  
-Kravis Center, Lower Court 26  
-888 Columbia Avenue  
-Claremont, CA 91711  
-
-[Find the way to the QCL](#) <!-- Optional: insert a campus map or directions link -->
+Or visit us in person:  
+**Kravis Center, Lower Court 26**  
+Claremont McKenna College
 
 ---
 
-For more information, or to schedule a consultation or workshop, please contact us at [qcl@cmc.edu](mailto:qcl@cmc.edu).
+**Empowering students to apply data and computation in meaningful, impactful ways.**
